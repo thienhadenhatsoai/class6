@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>ClassLibrary6</Name>
+    <Assembly>ClassLibrary6.dll</Assembly>
+    <AddInId>A5D53979-A910-42C7-B7C3-E0DE03758C08</AddInId>
+    <FullClassName>ClassLibrary6.Command_duclo</FullClassName>
+    <VendorId>ADNP</VendorId>
+    <VendorDescription>Autodesk, Inc. www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
